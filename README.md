@@ -13,7 +13,7 @@ Console Application co-developed with an environment test chamber to log test da
  Data is logged into a file named DataLog. 
   Note: Destination of the file is currently fixed to C:/Users/Asus/Documents/Thermal Chamber/DataLog.csv
         Additional functionality to select the destination will be added later.
-  Important: If a second data logging session is started without renaming the previous log file, the previous file will be overwritten.
+  _Important: If a second data logging session is started without renaming the previous log file, the previous file will be overwritten._
 
 *****************************************************************************************************************************************
  
